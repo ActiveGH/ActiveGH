@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZYOUSEFZ
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Discord Active#1080
 
